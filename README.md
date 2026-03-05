@@ -20,3 +20,5 @@ Food calorie dataset stored in CSV format.
 
 ## Live Application
 https://food-calorie-fitness-system-8m5arza35eiznrxthwpkmn.streamlit.app/
+## System Architecture
+![Architecture] (architecture.png)
